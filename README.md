@@ -1,8 +1,5 @@
-[![Discord](https://img.shields.io/discord/878293684620234752?logo=discord&logoColor=white&style=flat-square)](https://discord.gg/huwyNfVkhe)
 [![npm](https://img.shields.io/npm/dt/moon-did.svg)](https://www.npmjs.com/package/moon-did)
-[![npm](https://img.shields.io/npm/v/moon-did.svg)](https://www.npmjs.com/package/moon-did)
-[![GitHub Discussions](https://img.shields.io/github/discussions/uport-project/veramo?style=flat)](https://github.com/uport-project/veramo/discussions)
-[![Twitter Follow](https://img.shields.io/twitter/follow/veramolabs.svg?style=social&label=Follow)](https://twitter.com/veramolabs)
+
 
 # moon-DID Library
 
